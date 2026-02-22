@@ -1,0 +1,5 @@
+#this is the workflow from chatGPT hope this is correct
+
+config/
+  └─ accessions.txt  ---> download script ---> data/raw_genomes/ ---> CDS extraction ---> alignments
+
